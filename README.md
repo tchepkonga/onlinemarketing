@@ -35,7 +35,7 @@ jQuery
 
 live link
 You can view the live application by following this link
-http://127.0.0.1:5500/
+
 https://tchepkonga.github.io/onlinemarketing/
 
 BDD
