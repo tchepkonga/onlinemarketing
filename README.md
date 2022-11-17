@@ -12,7 +12,8 @@ Wow.js is a JavaScript library that generates CSS animations as you scroll along
 
 SCREEN SHOT
 
-![Alt text](../../../../../../../C:/Users/tchepkonga/Desktop/moringawork/week3ip/resources/images/Screenshot.png)
+<img width="938" alt="Screenshot" src="https://user-images.githubusercontent.com/112381907/202514020-2d62043b-a8ec-41c5-b836-b60662db5509.png">
+
 
 
 Installation / Setup instruction
